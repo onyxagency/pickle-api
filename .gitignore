@@ -29,3 +29,7 @@ pickle-email-*.html
 /vendor/assets/bower_components
 *.bowerrc
 bower.json
+
+# osx noise
+.DS_Store
+profile
